@@ -2,6 +2,10 @@
 
 学习笔记：https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb
 
+[（一）微服务概述](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#CAAYd4Sq6oeiEMx0waBc2tRonMg)
+
+[二）Eureka Server 注册中心](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#BOyAdKmsEoOSAaxwnJXcuSyenIh)
+
 # Thrift
 
 学习笔记：https://kvgdt5ev4p.feishu.cn/docx/Cg1AdBsNNo6P3nx14z1c52iWnme
