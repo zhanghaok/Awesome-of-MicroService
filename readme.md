@@ -6,6 +6,10 @@
 
 [（二）Eureka Server 注册中心](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#BOyAdKmsEoOSAaxwnJXcuSyenIh)
 
+[（三）Eureka Client 服务提供者](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#A4CsdmSGgockCKx4bqZcHNtlnuh)
+
+[（四）RestTemplate 的使用](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#LiS6dsyYmoY88SxA6eUcXmgSn1h)
+
 # Thrift
 
 在线学习笔记：https://kvgdt5ev4p.feishu.cn/docx/Cg1AdBsNNo6P3nx14z1c52iWnme
