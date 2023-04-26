@@ -10,6 +10,12 @@
 
 [（四）RestTemplate 的使用](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#LiS6dsyYmoY88SxA6eUcXmgSn1h)
 
+[（五）服务消费者 consumer](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#MWMQd4CYMo0W6ixcd1xctcjLn5d)
+
+[（六）服务网关 Zuul](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#UyuudOGGOoOuUUxWI1CcTwgGnIg)
+
+[（七）Ribbon 负载均衡](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#KaAiduciSomKSuxELvJcCAoCnbh)
+
 # Thrift
 
 在线学习笔记：https://kvgdt5ev4p.feishu.cn/docx/Cg1AdBsNNo6P3nx14z1c52iWnme
