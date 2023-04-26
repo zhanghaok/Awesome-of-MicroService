@@ -16,6 +16,8 @@
 
 [（七）Ribbon 负载均衡](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#KaAiduciSomKSuxELvJcCAoCnbh)
 
+[（八）Feign 声明式接口调用](https://kvgdt5ev4p.feishu.cn/docx/FRBGd4zigoOogUxOYAJcCievnPb#YaMgdMMyMo0AsQxawRQc6tzZnpg)
+
 # Thrift
 
 在线学习笔记：https://kvgdt5ev4p.feishu.cn/docx/Cg1AdBsNNo6P3nx14z1c52iWnme
